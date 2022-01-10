@@ -1,5 +1,5 @@
 :root{
-    --gradient:linear-gradient(90deg, #f1c40f, #f39c12);
+    --gradient:linear-gradient(90deg, #0c0f0e, #0c0f0e);
 }
 
 *{
@@ -13,7 +13,7 @@
 }
 
 *::selection{
-    background:#f39c12;
+    background:#0c0f0e;
     color:#fff;
 }
 
